@@ -1,5 +1,5 @@
 ext {
-    curriculumFileName = "curriculum-template"
+    curriculumFileName = "arch-sec"
     languages = ["DE", "EN"]
 }
 
