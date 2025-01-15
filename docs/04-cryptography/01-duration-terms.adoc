@@ -15,7 +15,7 @@ Begriff 1, Begriff 2, Begriff 3
 |===
 
 === Terms and Principles
-Asymmetric Cryptography, Entropy, Hashing, Key, Secret, Symmetric Cryptography, Randomness
+Asymmetric Cryptography, Entropy, Hashing, Key, Post-Quantum Cryptography, Secret, Symmetric Cryptography, Randomness
 // end::EN[]
 
 [NOTE]

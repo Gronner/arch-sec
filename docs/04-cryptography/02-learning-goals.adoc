@@ -37,7 +37,8 @@ Participants know examples of recommended symmetric algorithms (e.g. from NIST o
 
 Participants understand what asymmetric cryptography is.
 Participants know use cases, advantages and disadvantages of asymmetric cryptography.
-Participants know examples of recommended asymmetric algorithms (e.g. from NIST or BSI).
+Participants know examples of recommended asymmetric algorithms (e.g. from NIST or BSI) and are aware
+of the need to future-proof applications for post-quantum attacks.
 
 [[LG-4-4]]
 ==== LG 4-4: Secure Hashing
