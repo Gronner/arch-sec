@@ -23,7 +23,7 @@ tbd.
 ==== LG 4-1: Goals of Cryptography
 
 Participants know the goals of cryptography (Authenticity, Confidentiality and Integrity).
-Participants know how a basic cryptographic function works. 
+Participants know how a basic cryptographic function works.
 
 [[LG-4-2]]
 ==== LG 4-2: Symmetric Cryptography
@@ -62,7 +62,7 @@ BSI)
 
 Participants understand why cryptographically-secure random values are an important cornerstone of
 cryptography.
-Participants know how random values can be generated through random number generators (RNGs) and 
+Participants know how random values can be generated through random number generators (RNGs) and
 pseudo-random random number generators (PRNGs).
 Participants are aware of common pitfalls, when generating random values.
 
