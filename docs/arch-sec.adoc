@@ -43,7 +43,7 @@ include::01-introduction/00-structure.adoc[{include_configuration}]
 include::02-module-block-2/00-structure.adoc[{include_configuration}]
 
 <<<
-include::03-module-block-3/00-structure.adoc[{include_configuration}]
+include::03-verification/00-structure.adoc[{include_configuration}]
 
 <<<
 include::04-module-block-4/00-structure.adoc[{include_configuration}]
