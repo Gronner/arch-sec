@@ -44,10 +44,10 @@ of the need to future-proof applications for post-quantum attacks.
 ==== LG 4-4: Secure Hashing
 
 Participants understand what a hash function does.
-Participants understand quality goals of hash functions (preimage resistance, collision resistance,
-uniqueness of output).
+Participants understand quality goals of hash functions (preimage resistance, second-preimage
+resistance, collision resistance, avalanche effect and uniqueness of output).
 Participants know use cases of hashing.
-Participants know examples of recommended asymmetric algorithms (e.g. from NIST or BSI).
+Participants know examples of recommended hashing algorithms (e.g. from NIST or BSI).
 
 [[LG-4-5]]
 ==== LG 4-5: Randomness and Entropy
