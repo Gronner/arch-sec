@@ -10,9 +10,11 @@ Begriff 1, Begriff 2, Begriff 3
 // end::DE[]
 
 // tag::EN[]
+ifeval::["{suffix}" == "EMBSEC"]
 |===
-| Duration: XXX min | Practice time: XXX min
+| Duration: 120 min | Practice time: 120 min
 |===
+ifeval::["{suffix}" == "EMBSEC"]
 
 === Terms and Principles
 asset, attack path, attack tree, damage scenario, feasibility, impact, risk, security claim, security goal,

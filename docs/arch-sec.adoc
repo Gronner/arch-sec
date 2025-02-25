@@ -48,5 +48,13 @@ include::03-verification/00-structure.adoc[{include_configuration}]
 <<<
 include::04-cryptography/00-structure.adoc[{include_configuration}]
 
+ifeval::["{suffix}" == "EMBSEC"]
+<<<
+include::embsec/05-attacks/00-structure.adoc[{include_configuration}]
+
+<<<
+include::embsec/06-approaches/00-structure.adoc[{include_configuration}]
+endif::[]
+
 <<<
 include::99-references/00-references.adoc[{include_configuration}]
