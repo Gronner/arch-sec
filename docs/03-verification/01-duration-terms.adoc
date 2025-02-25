@@ -10,9 +10,11 @@ Begriff 1, Begriff 2, Begriff 3
 // end::DE[]
 
 // tag::EN[]
+ifeval::["{suffix}" == "EMBSEC"]
 |===
-| Duration: XXX min | Practice time: XXX min
+| Duration: 90 min | Practice time: 30 min
 |===
+endif::[]
 
 === Terms and Principles
 Dynamic Testing, Static Analysis, Verification, Validation

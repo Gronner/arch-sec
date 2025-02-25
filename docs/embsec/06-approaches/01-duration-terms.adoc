@@ -6,15 +6,16 @@
 === Begriffe und Konzepte
 Begriff 1, Begriff 2, Begriff 3
 
+
 // end::DE[]
 
 // tag::EN[]
 ifeval::["{suffix}" == "EMBSEC"]
 |===
-| Duration: 90 min | Practice time: 30 min
+| Duration: 200 min | Practice time: 190 min
 |===
-endif::[]
+ifeval::["{suffix}" == "EMBSEC"]
 
 === Terms and Principles
-Quality Attribute, Security, Secure Development Lifecycle, Security Property
+Security by Design
 // end::EN[]

@@ -13,13 +13,19 @@
 :include_configuration: tags=**;{language};!*
 
 :curriculum-short: ARCH-SEC
+ifeval::["{suffix}" == "EMBSEC"]
+:curriculum-short: EMBSEC
+endif::[]
+
+:curriculum-name: Architecture Security Core
+ifeval::["{suffix}" == "EMBSEC"]
+:curriculum-name: Embedded Security for Architects
+endif::[]
 
 ifeval::["{language}" == "DE"]
-:curriculum-name: Architecture Security Core
 :curriculum-header-title: iSAQB-Curriculum für Advanced Level: {curriculum-short}
 endif::[]
 
 ifeval::["{language}" == "EN"]
-:curriculum-name: Architecture Security Core
 :curriculum-header-title: iSAQB curriculum for Advanced Level: {curriculum-short}
 endif::[]
