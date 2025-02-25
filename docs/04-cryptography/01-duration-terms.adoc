@@ -10,11 +10,11 @@ Begriff 1, Begriff 2, Begriff 3
 // end::DE[]
 
 // tag::EN[]
-// tag::EMBSEC[]
+
 |===
 | Duration: 90 min | Practice time: 0 min
 |===
-// end::EMBSEC[]
+
 
 === Terms and Principles
 Asymmetric Cryptography, Entropy, Hashing, Key, Post-Quantum Cryptography, Secret, Symmetric Cryptography, Randomness

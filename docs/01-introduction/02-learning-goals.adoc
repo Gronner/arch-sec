@@ -13,9 +13,9 @@
 Participants know a definition of security and understand it as a quality of the system.
 Participants understand the relationship and trade-offs to other quality attributes.
 
-// tag::EMBSEC[]
+
 Definitions can be found for example in ISO/IEC 25010, ISO/SAE 21434 and IEC 62443.
-// end::EMBSEC[]
+
 
 [[LG-1-2]]
 ==== LG 1-2: Security Properties
@@ -32,20 +32,20 @@ Participants understand that maintaining security requires participation and con
 Participants know the typical lifecycle phases (conception, development, production, operation and maintenance, and decommission).
 Participants know at least one example of a security product lifecycle.
 
-// tag::EMBSEC[]
+
 Examples of security product lifecycles are presented ISO/SAE 21434, the Microsoft Security Development
 Lifecycle and NIST's Secure Software Development Framework.
-// end::EMBSEC[]
+
 
 [[LG-1-4]]
 ==== LG 1-4: Security Regulations and standards
 Participants understand the difference between regulations, standards and guidelines.
 Participants know examples of regulations, standards and guidelines regarding security.
 
-// tag::EMBSEC[]
+
 Example of security regulations, standards and guidelines  are UN R 155, UN R 156, ISO/SAE 21434,
 FDA Guidelines, NIST Standards such as SP800, IEC 62443, IEC 80001-5-1, IEC 60601-4-5, ISO 270xx and
 ETSI EN 303 645.
-// end::EMBSEC[]
+
 
 // end::EN[]

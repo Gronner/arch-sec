@@ -9,7 +9,7 @@ Dieser Abschnitt enthält Quellenangaben, die ganz oder teilweise im Curriculum 
 This section contains references that are cited in the curriculum.
 // end::EN[]
 
-// tag::EMBSEC[]
+
 **C**
 
 - [[[cve, CVE-Database]]] The MITRE Cooperation: Common Vulnerabilities and Exposures. https://www.cwe.org/
@@ -28,4 +28,4 @@ This section contains references that are cited in the curriculum.
 
 - [[[schumacher06, Schumacher 2006]]] Schumacher, M. Fernandez-Buglioni, F., et al.: Security Patterns: Integrating Security and Systems Engineering. Wiley, 2006
 
-// end::EMBSEC[]
+

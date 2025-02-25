@@ -10,11 +10,11 @@ Begriff 1, Begriff 2, Begriff 3
 // end::DE[]
 
 // tag::EN[]
-// tag::EMBSEC[]
+
 |===
 | Duration: 90 min | Practice time: 30 min
 |===
-// end::EMBSEC[]
+
 
 === Terms and Principles
 Dynamic Testing, Static Analysis, Verification, Validation

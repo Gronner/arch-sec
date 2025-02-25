@@ -10,11 +10,11 @@ Begriff 1, Begriff 2, Begriff 3
 // end::DE[]
 
 // tag::EN[]
-// tag::EMBSEC[]
+
 |===
 | Duration: 120 min | Practice time: 120 min
 |===
-// tag::EMBSEC[]
+
 
 === Terms and Principles
 asset, attack path, attack tree, damage scenario, feasibility, impact, risk, security claim, security goal,

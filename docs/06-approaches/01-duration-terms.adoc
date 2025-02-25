@@ -10,11 +10,9 @@ Begriff 1, Begriff 2, Begriff 3
 // end::DE[]
 
 // tag::EN[]
-// tag::EMBSEC[]
 |===
 | Duration: 200 min | Practice time: 190 min
 |===
-// tag::EMBSEC[]
 
 === Terms and Principles
 Security by Design

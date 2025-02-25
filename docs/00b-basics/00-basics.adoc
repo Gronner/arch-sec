@@ -4,17 +4,17 @@
 
 == {basics}
 
-// tag::EMBSEC[]
+
 include::embsec/01-what-to-expect-of-this-module.adoc[{include_configuration}]
 
 include::embsec/02-curriculum-structure-and-chronological-breakdown.adoc[{include_configuration}]
-// end::EMBSEC[]
+
 
 include::03-timing-didactics-and-more.adoc[{include_configuration}]
 
-// tag::EMBSEC[]
+
 include::embsec/04-prerequisites-for-this-training.adoc[{include_configuration}]
-// end::EMBSEC[]
+
 
 include::05-curriculum-outline.adoc[{include_configuration}]
 
