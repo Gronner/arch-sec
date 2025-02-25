@@ -12,12 +12,10 @@ Begriff 1, Begriff 2, Begriff 3
 // tag::EN[]
 // tag::EMBSEC[]
 |===
-| Duration: 120 min | Practice time: 120 min
+| Duration: 200 min | Practice time: 190 min
 |===
 // tag::EMBSEC[]
 
 === Terms and Principles
-asset, attack path, attack tree, damage scenario, feasibility, impact, risk, security claim, security goal,
-system context, system definition, threat, threat modeling
-
+Security by Design
 // end::EN[]

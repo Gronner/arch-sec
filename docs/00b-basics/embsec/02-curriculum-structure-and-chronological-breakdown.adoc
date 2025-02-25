@@ -1,0 +1,38 @@
+// tag::DE[]
+=== Struktur des Lehrplans und empfohlene zeitliche Aufteilung
+
+[cols="<,>", options="header"]
+|===
+| Inhalt | Empfohlene Mindestdauer (min)
+| 1. Thema mit Einleitung | 180
+| 2. Thema über xz | 150
+| 3. Thema mit viel Theorie | 120
+| 4. Thema mit xy und Beispiel | 180
+| 5. Thema mit abc und d | 210
+| 6. Thema mit Abschlussbeispiel | 120
+| |
+| Summe | 960 (16h)
+
+|===
+
+// end::DE[]
+
+// tag::EN[]
+=== Curriculum Structure and Recommended Durations
+
+[cols="<,>", options="header"]
+|===
+| Content
+| Recommended minimum duration (minutes)
+| 1. Introduction | 120
+| 2. Analysis | 240
+| 3. Verification | 120
+| 4. Cryptography | 90
+| 5. Attacks | 120
+| 6. Solution Approaches | 390
+| |
+| Total | 1080 (18h)
+
+|===
+
+// end::EN[]

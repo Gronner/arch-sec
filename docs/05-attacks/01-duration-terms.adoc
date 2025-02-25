@@ -6,6 +6,7 @@
 === Begriffe und Konzepte
 Begriff 1, Begriff 2, Begriff 3
 
+
 // end::DE[]
 
 // tag::EN[]
@@ -16,5 +17,5 @@ Begriff 1, Begriff 2, Begriff 3
 // end::EMBSEC[]
 
 === Terms and Principles
-Quality Attribute, Security, Secure Development Lifecycle, Security Property
+Attack, Attack Surface, CVE, CWE, Threat Agent, Vulnerability, Weakness
 // end::EN[]

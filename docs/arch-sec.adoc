@@ -48,5 +48,13 @@ include::03-verification/00-structure.adoc[{include_configuration}]
 <<<
 include::04-cryptography/00-structure.adoc[{include_configuration}]
 
+// tag::EMBSEC[]
+<<<
+include::05-attacks/00-structure.adoc[{include_configuration}]
+
+<<<
+include::06-approaches/00-structure.adoc[{include_configuration}]
+// end::EMBSEC[]
+
 <<<
 include::99-references/00-references.adoc[{include_configuration}]

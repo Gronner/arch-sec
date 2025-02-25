@@ -35,6 +35,12 @@ Participants understand what assets are and know typical examples.
 Participants are able to identify assets for a given system.
 Participants are able to identify damage scenarios an attack can cause these assets.
 
+// tag::EMBSEC[]
+Examples of assets in embedded systems are personally identifiable information, user's health and
+safety, intellectual property, hardware components, cryptographic material and communication
+channels.
+// end::EMBSEC[]
+
 [[LG-2-3]]
 ==== LG 2-3: Threat Modeling
 
@@ -60,4 +66,9 @@ Participants are able to identify and analyze threats for a given system.
 
 Participants understand the goal of assessing the risk of threats and the associated damage scenarios.
 Participants know approaches to classifying and rate attack risks.
+
+// tag::EMBSEC[]
+Examples for common rating systems are CVSS, ISO/SAE 21434 and MITRE's Medical CVSS rubric.
+// end::EMBSEC[]
+
 // end::EN[]
