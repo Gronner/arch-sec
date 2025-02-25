@@ -8,3 +8,24 @@ Dieser Abschnitt enthält Quellenangaben, die ganz oder teilweise im Curriculum 
 // tag::EN[]
 This section contains references that are cited in the curriculum.
 // end::EN[]
+
+// tag::EMBSEC[]
+**C**
+
+- [[[cve, CVE-Database]]] The MITRE Cooperation: Common Vulnerabilities and Exposures. https://www.cwe.org/
+- [[[cwe, CVE-Database]]] The MITRE Cooperation: Common Weakness Enumeration. https://cwe.mitre.org/
+
+**F**
+
+- [[[fernandez13, Fernandez-Buglioni 2013]]] Fernandez-Buglioni, F: Security Patterns in Practice: Designing Secure Architectures Using Software Patterns. Wiley, 2013
+
+**O**
+
+- [[[owasptop10, OWASP Top 10]]] Open Web Application Security Project: Top 10 Web Application Security Risks. https://owasp.org/www-project-top-ten/, 2021
+- [[[owasptop10iot, OWASP IoT Top 10]]] Open Web Application Security Project: OWASP Top 10 Internet of Things 2018. https://owasp.org/www-project-internet-of-things/, 2018
+
+**S**
+
+- [[[schumacher06, Schumacher 2006]]] Schumacher, M. Fernandez-Buglioni, F., et al.: Security Patterns: Integrating Security and Systems Engineering. Wiley, 2006
+
+// end::EMBSEC[]

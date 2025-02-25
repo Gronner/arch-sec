@@ -2,9 +2,11 @@
 
 
 :recommended-duration-in-days: 3
-:methodical-credits: Specified by module
-:technical-credits: Specified by module
-:communicative-credits: Specified by module
+// tag::EMBSEC[]
+:methodical-credits: 20
+:technical-credits: 10
+:communicative-credits: 0
+// end::EMBSEC[]
 
 // tag::DE[]
 === Dauer, Didaktik und weitere Details
