@@ -19,8 +19,3 @@ asset, attack path, attack tree, damage scenario, feasibility, impact, risk, sec
 system context, system definition, threat, threat modeling
 
 // end::EN[]
-
-[NOTE]
-====
-Sinnvolle Zeiten für Dauer und Übungszeit eintragen, vernünftige Begriffe aufzählen.
-====

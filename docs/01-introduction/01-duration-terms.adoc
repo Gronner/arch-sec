@@ -16,9 +16,3 @@ Begriff 1, Begriff 2, Begriff 3
 === Terms and Principles
 Quality Attribute, Security, Secure Development Lifecycle, Security Property
 // end::EN[]
-
-
-[NOTE]
-====
-Sinnvolle Zeiten für Dauer und Übungszeit eintragen, vernünftige Begriffe aufzählen.
-====

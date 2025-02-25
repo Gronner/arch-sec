@@ -18,8 +18,3 @@ Begriff 1, Begriff 2, Begriff 3
 Dynamic Testing, Static Analysis, Verification, Validation
 
 // end::EN[]
-
-[NOTE]
-====
-Sinnvolle Zeiten für Dauer und Übungszeit eintragen, vernünftige Begriffe aufzählen.
-====

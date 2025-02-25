@@ -29,8 +29,8 @@ Participants know the typical lifecycle phases (conception, development, product
 Participants know at least one example of a security product lifecycle.
 
 
-[[LG-1-3]]
-==== LG 1-3: Security Regulations and standards
+[[LG-1-4]]
+==== LG 1-4: Security Regulations and standards
 Participants understand the difference between regulations, standards and guidelines.
 Participants know examples of regulations, standards and guidelines regarding security.
 // end::EN[]

@@ -24,24 +24,13 @@
 |===
 | Content
 | Recommended minimum duration (minutes)
-| 1. Introduction | 180
-| 2. xz | 150
-| 3. Lots of theory | 120
-| 4. xy and example | 180
-| 5. abc und d | 210
-| 6. Final example | 120
+| 1. Introduction | Specified by module
+| 2. Analysis | Specified by module
+| 3. Verification | Specified by module
+| 4. Cryptography | Specified by module
 | |
-| Total | 960 (16h)
+| Total | -
 
 |===
 
 // end::EN[]
-
-[NOTE]
-====
-Bitte die oben angegebene Tabelle entsprechend anpassen.
-
-= = =
-
-Please adjust the table above according to your curriculum.
-====
