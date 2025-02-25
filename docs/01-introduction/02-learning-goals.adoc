@@ -16,8 +16,8 @@ Participants understand the relationship and trade-offs to other quality attribu
 [[LG-1-2]]
 ==== LG 1-2: Security Properties
 
-Participants know the security properties of the universal triade: confidentiality, integrity and
-availability. In additon they know additional common properties such as authentication, authorization
+Participants know the security properties of the universal triad: confidentiality, integrity and
+availability. In addition they know additional common properties such as authentication, authorization
 and non-repudiation.
 
 [[LG-1-3]]
