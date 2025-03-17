@@ -1,6 +1,7 @@
 ext {
     curriculumFileName = "arch-sec"
     languages = ["DE", "EN"]
+     suffixTags = ["EMBSEC"]
 }
 
 defaultTasks 'buildDocs'
